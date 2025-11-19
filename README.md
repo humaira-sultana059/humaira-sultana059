@@ -12,7 +12,7 @@
 - 🧩 Currently working as Full Stack Developer  
 - 🔥 Passionate about scalable systems & seamless user experiences  
 
-<img align="right" src="https://raw.githubusercontent.com/hasan-mahbub234/hasan-mahbub234/main/assets/dev.gif" width="300"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
