@@ -12,7 +12,7 @@
 - 🧩 Currently working as Full Stack Developer  
 - 🔥 Passionate about scalable systems & seamless user experiences  
 
-<img align="right" alt="Coding" width="400" src="[https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif]">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif]">
 
 ---
 
