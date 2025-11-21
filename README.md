@@ -1,7 +1,7 @@
 <h1 align="left">Yo, what’s up? 👋</h1>
 
 ### Meet Humaira, a software developer.
-<img align="right" alt="Coding" width="400" src="./profile-gif.gif">
+<img align="right" alt="Coding" width="400" src="./profile-gif-2.gif">
 
 ---
 
