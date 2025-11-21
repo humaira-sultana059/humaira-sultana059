@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍🦰 About Me
 
 - 💻 Skilled in React, Next.js, React Native, Node.js, Express.js, MongoDB 
 - 📱 Experienced in building web & mobile applications  
