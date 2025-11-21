@@ -12,7 +12,7 @@
 - 🧩 Currently working as Full Stack Developer  
 - 🔥 Passionate about scalable systems & seamless user experiences  
 
-<img align="right" alt="Coding" width="400" src="./profile-gif.gif">
+<img align="right" top="-50" alt="Coding" width="400" src="./profile-gif.gif">
 
 ---
 
