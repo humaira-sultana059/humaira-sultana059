@@ -12,7 +12,7 @@
 - 🧩 Currently working as Full Stack Developer  
 - 🔥 Passionate about scalable systems & seamless user experiences  
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif)">
 
 ---
 
@@ -23,8 +23,8 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-005C84?style=for-the-badge&logo=mongodb)
+
 
 ---
 
@@ -45,8 +45,8 @@ Real-time audio/video calling, chat, payments (bKash, Stripe), socket.io.
 ### 🟦 WemAsamo  
 **NGO Web Platform – Next.js, Firebase, Tailwind CSS**
 
-### 🛒 Shulov Mall  
-**E-commerce App – Next.js, FastAPI, MySQL, AWS**
+### 🛒 Risus 
+**Social Platform App – React Native**
 
 ---
 
@@ -59,7 +59,7 @@ Real-time audio/video calling, chat, payments (bKash, Stripe), socket.io.
 ---
 
 ## 🎓 Education  
-- B.S.S — University of Chittagong (2019–2022)  
+- B.S.S — University of Dhaka (2019–2022)  
 - HSC — (2018)  
 - SSC — (2016)
 
@@ -67,6 +67,6 @@ Real-time audio/video calling, chat, payments (bKash, Stripe), socket.io.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-📩 Email: your-email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humaira-sultana-866672282/)
+📩 Email: humairasultana059@gmail.com
 
